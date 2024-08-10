@@ -1,7 +1,9 @@
 # depslib dependency file v1.0
-1723271075 source:c:\dev\c_way\2\arconoid\main.c
+1723295241 source:c:\dev\c_way\2\arconoid\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	<conio.h>
+	<windows.h>
+	<math.h>
 
